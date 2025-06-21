@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/mannyflor/Documents/Xylophone-iOS11/DerivedData/Xylophone/Index.noindex/Build/Intermediates.noindex/Xylophone.build/Debug-iphoneos/Xylophone.build/Objects-normal/arm64/Xylophone-master.d",
+    "diagnostics" : "/Users/mannyflor/Documents/Xylophone-iOS11/DerivedData/Xylophone/Index.noindex/Build/Intermediates.noindex/Xylophone.build/Debug-iphoneos/Xylophone.build/Objects-normal/arm64/Xylophone-master.dia",
+    "emit-module-dependencies" : "/Users/mannyflor/Documents/Xylophone-iOS11/DerivedData/Xylophone/Index.noindex/Build/Intermediates.noindex/Xylophone.build/Debug-iphoneos/Xylophone.build/Objects-normal/arm64/Xylophone-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mannyflor/Documents/Xylophone-iOS11/DerivedData/Xylophone/Index.noindex/Build/Intermediates.noindex/Xylophone.build/Debug-iphoneos/Xylophone.build/Objects-normal/arm64/Xylophone-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mannyflor/Documents/Xylophone-iOS11/DerivedData/Xylophone/Index.noindex/Build/Intermediates.noindex/Xylophone.build/Debug-iphoneos/Xylophone.build/Objects-normal/arm64/Xylophone-master.swiftdeps"
+  },
+  "/Users/mannyflor/Documents/Xylophone-iOS11/DerivedData/Xylophone/Index.noindex/Build/Intermediates.noindex/Xylophone.build/Debug-iphoneos/Xylophone.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/mannyflor/Documents/Xylophone-iOS11/Xylophone/ VIewController.swift" : {
+
+  },
+  "/Users/mannyflor/Documents/Xylophone-iOS11/Xylophone/AppDelegate.swift" : {
+
+  }
+}

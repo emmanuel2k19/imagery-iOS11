@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "48D6B7DBDA2D4081223E97B330159F70E24A0318",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "48D6B7DBDA2D4081223E97B330159F70E24A0318" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CFB54FDF-0BDD-4F34-8356-3613A62829F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "48D6B7DBDA2D4081223E97B330159F70E24A0318" : "Xylophone-iOS11\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Xylophone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Xylophone.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/londonappbrewery\/Xylophone-iOS11.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "48D6B7DBDA2D4081223E97B330159F70E24A0318"
+    }
+  ]
+}
