@@ -1,8 +1,10 @@
-# Xcode
+# macOS system files
+.DS_Store
+
+# Xcode build files
 DerivedData/
 build/
-*.xcuserdata
 *.xcuserstate
 
-# macOS
-.DS_Store
+# Xcode workspace settings
+xcuserdata/
