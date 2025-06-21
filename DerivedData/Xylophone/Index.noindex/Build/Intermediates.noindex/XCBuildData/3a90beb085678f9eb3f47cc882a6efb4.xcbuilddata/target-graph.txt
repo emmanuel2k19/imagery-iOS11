@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'Xylophone' in project 'Xylophone' (no dependencies)
-Target 'Xylophone' in project 'Xylophone' (no dependencies)
